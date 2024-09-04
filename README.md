@@ -30,7 +30,7 @@ This project uses the following development tools:
    ```JSON
      "scripts": {
       "test": "vitest",
-      "lunch": "vitest <your_test_fileName>"
+      "launch": "vitest <your_test_fileName>"
    },
    ```
 
@@ -39,14 +39,14 @@ This project uses the following development tools:
    ```JSON
      "scripts": {
       "test": "vitest",
-      "lunch": "vitest 80.test.js"
+      "launch": "vitest 80.test.js"
    },
    ```
 
    After this, run the command in the terminal as follow:
 
    ```js
-   npm run lunch
+   npm run launch
    ```
 
 ## Debugger
@@ -55,4 +55,4 @@ To use debugger and check the working of the code,
 
 -  Open `JavaScript Debug Terminal`,
 -  Set the breakpoint in the code,
--  run the script `npm run lunch` or `npm test`.
+-  run the script `npm run launch` or `npm test`.

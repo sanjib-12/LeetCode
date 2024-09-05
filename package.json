@@ -5,7 +5,7 @@
    "main": "index.js",
    "scripts": {
       "test": "vitest",
-      "launch": "vitest 121.test.js"
+      "launch": "vitest 122.test.js"
    },
    "author": "sanjib",
    "license": "MIT",

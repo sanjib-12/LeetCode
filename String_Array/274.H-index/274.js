@@ -26,11 +26,11 @@ n == citations.length
 
 //? Solution 1
 
-export function hIndex(nums) {
-   nums.sort((a, b) => b - a);
+export function hIndex(citations) {
+   citations.sort((a, b) => b - a);
    let count = 0;
-   for (let i = 0; i < nums.length; i++) {
-      if (nums[i] >= i + 1) {
+   for (let i = 0; i < citations.length; i++) {
+      if (citations[i] >= i + 1) {
          count++;
       } else break;
    }

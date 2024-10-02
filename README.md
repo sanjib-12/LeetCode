@@ -14,9 +14,9 @@ To install the project dependencies, run the following command in the project ro
 npm install
 ```
 
-## Development
+## Tools
 
-This project uses the following development tools:
+This project uses the following tools:
 
 -  **ESLint**: For linting JavaScript code.
 -  **Prettier**: For code formatting.

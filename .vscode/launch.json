@@ -8,10 +8,8 @@
          "type": "node",
          "request": "launch",
          "name": "Launch Program",
-         "skipFiles": [
-            "<node_internals>/**"
-         ],
-         "program": "${workspaceFolder}\\Sliding_Window\\30. Substring with Concatenation of All Words\\30.js"
+         "skipFiles": ["<node_internals>/**"],
+         "program": "${workspaceFolder}\\Sliding_Window\\76. Minimum Window Substring\\76.js"
       }
    ]
 }

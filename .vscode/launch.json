@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Sliding_Window\\76. Minimum Window Substring\\76.js"
+         "program": "${workspaceFolder}\\Matrix\\36_Valid_Sudoku\\36.js"
       }
    ]
 }

@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Matrix\\54_Spiral_Matrix\\54.js"
+         "program": "${workspaceFolder}\\Matrix\\54_Spiral_Matrix\\48.js"
       }
    ]
 }

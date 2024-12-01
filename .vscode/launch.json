@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Hashmap\\383_Ransom_Note\\383.js"
+         "program": "${workspaceFolder}\\Hashmap\\205_Isomorphic_String\\205.js"
       }
    ]
 }

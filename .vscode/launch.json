@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Matrix\\289_Game_of_Life\\289.js"
+         "program": "${workspaceFolder}\\Hashmap\\383_Ransom_Note\\383.js"
       }
    ]
 }

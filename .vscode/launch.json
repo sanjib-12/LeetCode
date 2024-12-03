@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Hashmap\\209_Word_Pattern\\290.js"
+         "program": "${workspaceFolder}\\Hashmap\\242_Valid_Anagram\\242.js"
       }
    ]
 }

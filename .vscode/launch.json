@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Hashmap\\202_Happy_Number\\202.js"
+         "program": "${workspaceFolder}\\Hashmap\\128_Longest_Consecutive_Sequence\\128.js"
       }
    ]
 }

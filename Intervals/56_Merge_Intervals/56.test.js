@@ -3,35 +3,33 @@ import { merge } from './56';
 
 const testCases = [
    {
-      input: {
-         s: 'egg',
-         t: 'add',
-      },
-      expected: true,
+      input: [
+         [1, 3],
+         [2, 6],
+         [8, 10],
+         [15, 18],
+      ],
+      expected: [
+         [1, 6],
+         [8, 10],
+         [15, 18],
+      ],
       comment: 'test case 1',
    },
    {
-      input: {
-         s: 'foo',
-         t: 'bar',
-      },
-      expected: false,
+      input: [
+         [1, 4],
+         [4, 5],
+      ],
+      expected: [[1, 5]],
       comment: 'test case 2',
-   },
-   {
-      input: {
-         s: 'paper',
-         t: 'title',
-      },
-      expected: true,
-      comment: 'test case 3',
    },
 ];
 
 describe('merge', () => {
    testCases.forEach(({ input, expected, comment }) => {
       it(comment, () => {
-         const output = merge(input.s, input.t);
+         const output = merge(input);
          expect(output).toEqual(expected);
       });
    });

@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Intervals\\228_Summary_Ranges\\228.js"
+         "program": "${workspaceFolder}\\Intervals\\56_Merge_Intervals\\56.js"
       }
    ]
 }

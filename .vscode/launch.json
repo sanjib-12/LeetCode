@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Intervals\\56_Merge_Intervals\\56.js"
+         "program": "${workspaceFolder}\\Intervals\\452_Minimum_Number_of_Arrows_to_Brust_Balloons\\452.js"
       }
    ]
 }

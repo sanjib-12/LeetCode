@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Stack\\155_Min_Stack\\155.js"
+         "program": "${workspaceFolder}\\Stack\\150_Evaluate_Reverse_Polish_Notation\\150.js"
       }
    ]
 }

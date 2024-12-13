@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Stack\\224_Basic_Calculator\\224.js"
+         "program": "${workspaceFolder}\\Linked List\\141_Linked_List_Cycle\\141.js"
       }
    ]
 }

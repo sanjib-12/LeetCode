@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Linked List\\138_Copy_List_With_Random_Pointer\\try.js"
+         "program": "${workspaceFolder}\\Linked List\\92_Reverse_Linked_List_II\\92.js"
       }
    ]
 }

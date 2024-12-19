@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Linked List\\61_Rotate_List\\61.js"
+         "program": "${workspaceFolder}\\Linked List\\86_Partition_List\\86.js"
       }
    ]
 }

@@ -16,21 +16,28 @@
 import { arrayToTree } from './hp.js';
 
 var lowestCommonAncestor = function (root, p, q) {
-   let stack = [];
-   function bfs(root) {
-      if (root === null) return;
-      stack.push(root.val);
-      bfs(root.left);
-      bfs(root.right);
+   if (!root || root === p || root === q) {
+      return root;
    }
-   bfs(root);
-   console.log(stack);
+
+   let left = lowestCommonAncestor(root.left, p, q);
+   let right = lowestCommonAncestor(root.right, p, q);
+
+   if (left && right) {
+      return root;
+   }
+
+   return left || right;
 };
 
 let root = [3, 5, 1, 6, 2, 0, 8, null, null, 7, 4],
-   p = [5],
-   q = [1];
+   p = [5, 6, 2, null, null, 7, 4],
+   q = [4];
 
-let output = lowestCommonAncestor(arrayToTree(root), p, q);
+let output = lowestCommonAncestor(
+   arrayToTree(root),
+   arrayToTree(p),
+   arrayToTree(q),
+);
 
 console.log(output);

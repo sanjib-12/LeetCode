@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}\\Binary Tree BFS\\103.js"
+         "program": "${workspaceFolder}/Binary Search Tree/530_MinimumAbsoluteDifferenceInBST.js"
       }
    ]
 }

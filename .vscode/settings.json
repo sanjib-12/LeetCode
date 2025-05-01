@@ -1,5 +1,7 @@
 {
-   "editor.formatOnSave": true,
+   "editor.formatOnSave": false,
    "editor.defaultFormatter": "esbenp.prettier-vscode",
-   "cSpell": "disable"
+   "cSpell": "disable",
+   "C_Cpp.copilotHover": "disabled",
+   "editor.inlineSuggest.suppressSuggestions": true
 }

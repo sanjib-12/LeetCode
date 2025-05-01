@@ -3,6 +3,7 @@
    "version": "1.0.0",
    "description": "leetcode solution for interview questions.",
    "main": "index.js",
+   "type": "module",
    "scripts": {
       "test": "vitest",
       "launch": "vitest 86.test.js"

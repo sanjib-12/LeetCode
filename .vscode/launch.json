@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Binary Search Tree/230_Smallest_Element_in_a_BTS.js"
+         "program": "${workspaceFolder}/Binary Search Tree/98_Validate_Binary_Search_Tree.js"
       }
    ]
 }

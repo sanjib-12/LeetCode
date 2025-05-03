@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Binary Search Tree/98_Validate_Binary_Search_Tree.js"
+         "program": "${workspaceFolder}/Graph General/200_Number_of_Islands.js"
       }
    ]
 }

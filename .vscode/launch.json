@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Graph General/399_Evaluate_Division.js"
+         "program": "${workspaceFolder}/Graph General/210_Course_ScheduleII.js"
       }
    ]
 }

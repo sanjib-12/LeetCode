@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Graph General/210_Course_ScheduleII.js"
+         "program": "${workspaceFolder}/Graph_BFS/909-snakes-and-ladders.js"
       }
    ]
 }

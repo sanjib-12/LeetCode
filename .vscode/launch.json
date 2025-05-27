@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Trie/212-word-search-II.js"
+         "program": "${workspaceFolder}/Backtracking/77-combination.js"
       }
    ]
 }

@@ -24,5 +24,5 @@ var combine = function (n, k) {
 };
 
 const n = 4,
-   k = 3;
+   k = 2;
 console.log(combine(n, k));

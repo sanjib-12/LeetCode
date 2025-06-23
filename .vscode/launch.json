@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Backtracking/39-combination-sum.js"
+         "program": "${workspaceFolder}/Backtracking/51-n-queens.js"
       }
    ]
 }

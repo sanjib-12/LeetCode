@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Backtracking/51-n-queens.js"
+         "program": "${workspaceFolder}/Backtracking/52-n-queens.js"
       }
    ]
 }

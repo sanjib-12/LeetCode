@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Backtracking/22-generate-parentheses.js"
+         "program": "${workspaceFolder}/String_Array/88_merge_sorted_array.js"
       }
    ]
 }

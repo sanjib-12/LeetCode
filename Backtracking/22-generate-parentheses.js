@@ -59,5 +59,5 @@ var generateParenthesis = function (n) {
 //    return result;
 // };
 
-const n = 3;
+const n = 2;
 console.log(generateParenthesis(n));

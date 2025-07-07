@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/String_Array/88_merge_sorted_array.js"
+         "program": "${workspaceFolder}/Backtracking/79-word-search.js"
       }
    ]
 }

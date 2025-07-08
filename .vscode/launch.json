@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/Backtracking/79-word-search.js"
+         "program": "${workspaceFolder}/divide and conquer/108_convert_sorted_array_to_binary_search_tree.js"
       }
    ]
 }

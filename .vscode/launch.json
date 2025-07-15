@@ -9,7 +9,7 @@
          "request": "launch",
          "name": "Launch Program",
          "skipFiles": ["<node_internals>/**"],
-         "program": "${workspaceFolder}/divide and conquer/148-sort-list.js"
+         "program": "${workspaceFolder}/divide and conquer/23-merge-k-sorted-list.js"
       }
    ]
 }
